@@ -1,1 +1,4 @@
-Testing this git functionality with just a simple file.
+Hey there Lilly, look at me. 
+
+I created this dumb stupid pointless thing to show you how the git commit process works on Windows computers. 
+SEEEEEEEEEEE!???
